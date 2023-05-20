@@ -48,3 +48,6 @@
 
 By following these tips, you can help to create a consistent and readable naming convention for your JavaScript code.
 */
+
+
+// here is an example: https://api.github.com/users/adhilsalim
